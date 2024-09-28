@@ -40,7 +40,7 @@ public class Main {
                 {" A) O software é entregue em pequenas partes", "B) O cliente participa de todas as fases", "C) O desenvolvimento é feito em etapas sequenciais", "D) O foco é na prototipagem rápida", "E) A equipe de desenvolvimento é autônoma"}
         };
 
-        //                    1    2    3    4    5    6    7    8    9    10   11   12   13   14   15
+        // Questões           1    2    3    4    5    6    7    8    9    10   11   12   13   14   15
         String[] corretas = {"c", "b", "a", "a", "b", "e", "c", "a", "e", "d", "c", "a", "b", "a", "c"};
 
         System.out.println(" ");
@@ -86,5 +86,13 @@ public class Main {
         System.out.println(" Quantidade de acertos: " + acertos);
         System.out.println(" Quantidade de erros: " + erros);
         System.out.printf(" Porcentagem de acertos: %.2f%%\n", porcentagemAcertos);
+
+        if (porcentagemAcertos > 60) {
+            System.out.println("Parabéns, você se esforçou bastante !! ");
+        } else {
+               System.out.println("Estude um pouco mais e irá se sair muito bem !! ");
+        }
+
+
     }
 }
