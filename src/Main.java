@@ -10,7 +10,7 @@ public class Main {
                 " 03 - Qual a função do SCRUM? ",
                 " 04 - Em um sistema de controle de versão, qual é o propósito de fazer um commit ?",
                 " 05 - O que significa o termo deploy em desenvolvimento de software? ",
-                " 06 - ",
+                " 06 - No contexto de Engenharia de Software, o que significa refatoração? ",
                 " 07 - ",
                 " 08 - ",
                 " 09 - ",
@@ -27,8 +27,8 @@ public class Main {
                 {" A) Linguagem de programação", "B) Linguagem de modelagem", "C) Linguagem matemática", "D) Linguagem de marcação", "E) Linguagem de montagem"},
                 {" A) Organizar o desenvolvimento de projetos", "B) Definir funções", "C) Medir a qualidade de software", "D) Corrigir falhas", "E) Aumentar a segurança"},
                 {" A) Enviar alterações locais para o repositório principal", "B) Reverter mudanças feitas no código", "C) Sincronizar o código entre diferentes branches", "D) Corrigir conflitos de versão", "E) Testar a integração do código"},
-                {" A) Realizar testes unitários no software", "B) Colocar o software em operação, disponível para uso", "C) Iniciar o desenvolvimento de novas funcionalidades\", \"D) Criar o ambiente de desenvolvimento", "E) Documentar o código para a equipe técnica"},
-                {"  "},
+                {" A) Realizar testes unitários no software", "B) Colocar o software em operação, disponível para uso", "C) Iniciar o desenvolvimento de novas funcionalidades", "D) Criar o ambiente de desenvolvimento", "E) Documentar o código para a equipe técnica"},
+                {" A) Reescrever todo o software do zero", "B) Testar novos métodos de integração de software", "C) Implementar novas funcionalidades no sistema", "D) Corrigir bugs de segurança críticos", "E) Alterar o código para melhorar sua estrutura sem alterar seu comportamento externo"},
                 {" "},
                 {" "},
                 {" "},
@@ -41,7 +41,7 @@ public class Main {
         };
 
         //                    1    2    3    4    5    6    7    8    9   10   11   12   13    14   15
-        String[] corretas = {"c", "b", "a", "a", "b", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "};
+        String[] corretas = {"c", "b", "a", "a", "b", "e", " ", " ", " ", " ", " ", " ", " ", " ", " "};
 
         System.out.println(" ");
         System.out.println(" =-------------------------------------------------------------------------------------------------------= ");
