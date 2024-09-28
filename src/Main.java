@@ -13,7 +13,7 @@ public class Main {
                 " 06 - No contexto de Engenharia de Software, o que significa refatoração? ",
                 " 07 - O que é uma variável em programação? ",
                 " 08 - O que significa debugar um programa? ",
-                " 09 - ",
+                " 09 - O que é uma linguagem de programação? ",
                 " 10 - ",
                 " 11 - ",
                 " 12 - ",
@@ -31,7 +31,7 @@ public class Main {
                 {" A) Reescrever todo o software do zero", "B) Testar novos métodos de integração de software", "C) Implementar novas funcionalidades no sistema", "D) Corrigir bugs de segurança críticos", "E) Alterar o código para melhorar sua estrutura sem alterar seu comportamento externo"},
                 {" A) Um tipo de algoritmo", "B) Um componente físico do computador", "C) Um espaço na memória para armazenar valores temporários", "D) Um dispositivo de entrada de dados", "E) Uma função de sistema operacional"},
                 {" A) Encontrar e corrigir erros no código", "B) Otimizar o desempenho do software", "C) Atualizar a documentação do projeto", "D) Adicionar novas funcionalidades ao software", "E) Testar o software em diferentes dispositivos"},
-                {" "},
+                {" A) Um aplicativo de gerenciamento de arquivos", "B) Uma ferramenta para criar hardware", "Um tipo de arquivo executável", "D) Um código para acessar a internet", "E) Uma maneira de comunicar instruções ao computador"},
                 {" "},
                 {" "},
                 {" "},
@@ -41,7 +41,7 @@ public class Main {
         };
 
         //                    1    2    3    4    5    6    7    8    9   10   11   12   13    14   15
-        String[] corretas = {"c", "b", "a", "a", "b", "e", "c", "a", " ", " ", " ", " ", " ", " ", " "};
+        String[] corretas = {"c", "b", "a", "a", "b", "e", "c", "a", "e", " ", " ", " ", " ", " ", " "};
 
         System.out.println(" ");
         System.out.println(" =-------------------------------------------------------------------------------------------------------= ");
