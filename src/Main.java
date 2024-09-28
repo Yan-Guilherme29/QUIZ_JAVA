@@ -16,7 +16,7 @@ public class Main {
                 " 09 - O que é uma linguagem de programação? ",
                 " 10 - Qual das seguintes opções é um exemplo de uma linguagem de programação? ",
                 " 11 - O que é um algoritmo? ",
-                " 12 - ",
+                " 12 - Qual é a finalidade de um banco de dados? ",
                 " 13 - ",
                 " 14 - ",
                 " 15 - "
@@ -34,14 +34,14 @@ public class Main {
                 {" A) Um aplicativo de gerenciamento de arquivos", "B) Uma ferramenta para criar hardware", "Um tipo de arquivo executável", "D) Um código para acessar a internet", "E) Uma maneira de comunicar instruções ao computador"},
                 {" A) Microsoft Word", "B) Excel", "C) Photoshop", "D) Java", "E) HTML"},
                 {" A) Um tipo de software", "B) Uma técnica de hardware", "C) Uma sequência de instruções para resolver um problema", "D) Um dispositivo de entrada de dados", "E) Um comando específico de uma linguagem"},
-                {" "},
+                {" A) Armazenar e organizar informações de maneira estruturada ", "B) Processar imagens digitais", "C) Controlar o acesso à internet", "D) Gerenciar o sistema operacional", "E) Proteger arquivos contra vírus"},
                 {" "},
                 {" "},
                 {" "}
         };
 
         //                    1    2    3    4    5    6    7    8    9   10   11   12   13    14   15
-        String[] corretas = {"c", "b", "a", "a", "b", "e", "c", "a", "e", "d", "c", " ", " ", " ", " "};
+        String[] corretas = {"c", "b", "a", "a", "b", "e", "c", "a", "e", "d", "c", "a", " ", " ", " "};
 
         System.out.println(" ");
         System.out.println(" =-------------------------------------------------------------------------------------------------------= ");
