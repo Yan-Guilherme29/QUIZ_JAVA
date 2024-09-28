@@ -15,7 +15,7 @@ public class Main {
                 " 08 - O que significa debugar um programa? ",
                 " 09 - O que é uma linguagem de programação? ",
                 " 10 - Qual das seguintes opções é um exemplo de uma linguagem de programação? ",
-                " 11 - ",
+                " 11 - O que é um algoritmo? ",
                 " 12 - ",
                 " 13 - ",
                 " 14 - ",
@@ -33,7 +33,7 @@ public class Main {
                 {" A) Encontrar e corrigir erros no código", "B) Otimizar o desempenho do software", "C) Atualizar a documentação do projeto", "D) Adicionar novas funcionalidades ao software", "E) Testar o software em diferentes dispositivos"},
                 {" A) Um aplicativo de gerenciamento de arquivos", "B) Uma ferramenta para criar hardware", "Um tipo de arquivo executável", "D) Um código para acessar a internet", "E) Uma maneira de comunicar instruções ao computador"},
                 {" A) Microsoft Word", "B) Excel", "C) Photoshop", "D) Java", "E) HTML"},
-                {" "},
+                {" A) Um tipo de software", "B) Uma técnica de hardware", "C) Uma sequência de instruções para resolver um problema", "D) Um dispositivo de entrada de dados", "E) Um comando específico de uma linguagem"},
                 {" "},
                 {" "},
                 {" "},
@@ -41,7 +41,7 @@ public class Main {
         };
 
         //                    1    2    3    4    5    6    7    8    9   10   11   12   13    14   15
-        String[] corretas = {"c", "b", "a", "a", "b", "e", "c", "a", "e", "d", " ", " ", " ", " ", " "};
+        String[] corretas = {"c", "b", "a", "a", "b", "e", "c", "a", "e", "d", "c", " ", " ", " ", " "};
 
         System.out.println(" ");
         System.out.println(" =-------------------------------------------------------------------------------------------------------= ");
