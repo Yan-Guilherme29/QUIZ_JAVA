@@ -5,8 +5,8 @@ public class Main {
         int erros   = 0;
 
         String[] perguntas = {
-                " 01 - ",
-                " 02 - ",
+                " 01 - O que é Engenharia de Software? ",
+                " 02 - O que é UML? ",
                 " 03 - ",
                 " 04 - ",
                 " 05 - ",
@@ -23,8 +23,8 @@ public class Main {
         };
 
         String[][] opcoes = {
-                {" "},
-                {" "},
+                {" A) Um software de engenharia ", "B) Uma metodologia ", "C) Uma ciência ", "D) Nenhuma das anteriores ", "E) Todas as anteriores"},
+                {" A) Linguagem de programação", "B) Linguagem de modelagem", "C) Linguagem matemática", "D) Linguagem de marcação", "E) Linguagem de montagem"},
                 {" "},
                 {" "},
                 {"  "},
@@ -41,7 +41,7 @@ public class Main {
         };
 
         //                    1    2    3    4    5    6    7    8    9   10   11   12   13    14   15
-        String[] corretas = {"c", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "};
+        String[] corretas = {"c", "b", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "};
 
         System.out.println(" ");
         System.out.println(" =-------------------------------------------------------------------------------------------------------= ");
