@@ -7,7 +7,7 @@ public class Main {
         String[] perguntas = {
                 " 01 - O que é Engenharia de Software? ",
                 " 02 - O que é UML? ",
-                " 03 - ",
+                " 03 - Qual a função do SCRUM? ",
                 " 04 - ",
                 " 05 - ",
                 " 06 - ",
@@ -25,7 +25,7 @@ public class Main {
         String[][] opcoes = {
                 {" A) Um software de engenharia ", "B) Uma metodologia ", "C) Uma ciência ", "D) Nenhuma das anteriores ", "E) Todas as anteriores"},
                 {" A) Linguagem de programação", "B) Linguagem de modelagem", "C) Linguagem matemática", "D) Linguagem de marcação", "E) Linguagem de montagem"},
-                {" "},
+                {" A) Organizar o desenvolvimento de projetos", "B) Definir funções", "C) Medir a qualidade de software", "D) Corrigir falhas", "E) Aumentar a segurança"},
                 {" "},
                 {"  "},
                 {"  "},
