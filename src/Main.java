@@ -19,7 +19,7 @@ public class Main {
                 " 12 - Qual é a finalidade de um banco de dados? ",
                 " 13 - O que significa a sigla IDE, no contexto de desenvolvimento de software? ",
                 " 14 - Qual é a principal função de um compilador? ",
-                " 15 - "
+                " 15 - Qual a principal característica da metodologia em cascata? "
         };
 
         String[][] opcoes = {
@@ -37,11 +37,11 @@ public class Main {
                 {" A) Armazenar e organizar informações de maneira estruturada ", "B) Processar imagens digitais", "C) Controlar o acesso à internet", "D) Gerenciar o sistema operacional", "E) Proteger arquivos contra vírus"},
                 {" A) Interface Design Environment", "B) Integrated Development Environment (Ambiente de Desenvolvimento Integrado)", "C) Internet Data Entry", "D) Input Device Emulator", "E) Internal Debugger Environment"},
                 {" A) Traduzir o código-fonte para código executável", "B) Realizar a documentação do projeto","C) Executar o programa diretamente", "D) Gerar relatórios sobre o desempenho do software", "E) Corrigir erros automaticamente"},
-                {" "}
+                {" A) O software é entregue em pequenas partes", "B) O cliente participa de todas as fases", "C) O desenvolvimento é feito em etapas sequenciais", "D) O foco é na prototipagem rápida", "E) A equipe de desenvolvimento é autônoma"}
         };
 
         //                    1    2    3    4    5    6    7    8    9    10   11   12   13   14   15
-        String[] corretas = {"c", "b", "a", "a", "b", "e", "c", "a", "e", "d", "c", "a", "b", "a", " "};
+        String[] corretas = {"c", "b", "a", "a", "b", "e", "c", "a", "e", "d", "c", "a", "b", "a", "c"};
 
         System.out.println(" ");
         System.out.println(" =-------------------------------------------------------------------------------------------------------= ");
