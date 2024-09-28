@@ -18,7 +18,7 @@ public class Main {
                 " 11 - O que é um algoritmo? ",
                 " 12 - Qual é a finalidade de um banco de dados? ",
                 " 13 - O que significa a sigla IDE, no contexto de desenvolvimento de software? ",
-                " 14 - ",
+                " 14 - Qual é a principal função de um compilador? ",
                 " 15 - "
         };
 
@@ -36,12 +36,12 @@ public class Main {
                 {" A) Um tipo de software", "B) Uma técnica de hardware", "C) Uma sequência de instruções para resolver um problema", "D) Um dispositivo de entrada de dados", "E) Um comando específico de uma linguagem"},
                 {" A) Armazenar e organizar informações de maneira estruturada ", "B) Processar imagens digitais", "C) Controlar o acesso à internet", "D) Gerenciar o sistema operacional", "E) Proteger arquivos contra vírus"},
                 {" A) Interface Design Environment", "B) Integrated Development Environment (Ambiente de Desenvolvimento Integrado)", "C) Internet Data Entry", "D) Input Device Emulator", "E) Internal Debugger Environment"},
-                {" "},
+                {" A) Traduzir o código-fonte para código executável", "B) Realizar a documentação do projeto","C) Executar o programa diretamente", "D) Gerar relatórios sobre o desempenho do software", "E) Corrigir erros automaticamente"},
                 {" "}
         };
 
-        //                    1    2    3    4    5    6    7    8    9   10   11   12   13    14   15
-        String[] corretas = {"c", "b", "a", "a", "b", "e", "c", "a", "e", "d", "c", "a", "b", " ", " "};
+        //                    1    2    3    4    5    6    7    8    9    10   11   12   13   14   15
+        String[] corretas = {"c", "b", "a", "a", "b", "e", "c", "a", "e", "d", "c", "a", "b", "a", " "};
 
         System.out.println(" ");
         System.out.println(" =-------------------------------------------------------------------------------------------------------= ");
